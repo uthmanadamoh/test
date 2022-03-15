@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uadamoh-proj",
+  "private_key_id": "eb02a62b2363cbd17b43b0ade2b9bc829bc960ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+fJ/pHCo1Jo61\nmu+FLL9eTaoKdK8XklHeMGE3LjHvyEYY09yCzAgXaNuUpJXNlk+GKjTvcajE38XS\n1d5/r+9E2C6B3qfhrJ9nNyk0Q3+VRNv4UYd7EDHSe6zMs4dBdEeuW4iZ76mS+QPj\nq6fege333vKRzprhqQcz2bJdp4eyYT3+oRabQ2DIddLRS6S/yrn43uCsyaIUFk87\nrP/gumDs0gslsS5nW5KQbcwvR7pcpq9n8V0fSQPJfFxZgI09/JJu976NNVzF04c9\nVLfMbpy4V7hG5bRi4NTI0w4tMs8YC5XDsOIPQfSp0kPPO7XHXAZLc0yr2R5WFc/y\njdgSZTRBAgMBAAECggEAAx5lO9rTMhWUhpKn00VdSLz6yLsKVtd1ca7XGKEv/h4I\nT8XAOX//repwlelv7nLEkIzGWxlASyDiy0XnI64Mu9LSSBwOIZrC7Vyw1wM35oi/\nFTy4fCJSvoB53swdrcuqlMc44FRVMWvUTXj1Aaac7879p7d7P7CVxpqM2g2xIhGA\nQZVH1ODxwUfsk9GVzH7EoMNNzsLKd1E0oSrUPYtj+9gMZARIiIoMRe8uViFbcA8g\nlLDiIMKrLugtMCVtozVwb3glflzSmyQN97RCrAt6UWqeGeqKibQZe+pd4iEt5pNJ\n9GUDk+4OJrCxGDDgF26exrJkpLQQU94JP3zrd4W0FQKBgQDwSnwk1pLzeHWUmNHh\nqLTNitC2wMrOrDn6dLdwdaFV3kBWMzltj+opRfhQHot9W9WIfEmz/PXW5DnILxIW\nSL3bUqlxUFK+7G0zOpWjNtBc/mLMVIqGKf6PyRL6g3W6r4o8wJxES5kaHiFdDvzO\nSb+0Mn+f6tfUS3/9lwcEFinNewKBgQDK8J3OqJb8aKbO3Q804BOCIjO5S4ZJeoxr\nHXSgvu27ypCyTqOFegSpeVn7ohsPGIpg8I3v1vsmyyssyDoHJiLiywx2JxlCewBt\nW68BbMjeaNqN0UdFEV2SiPirSJ7Fu/bXxnziQEmju3H3etM8Wl56V6itr2tzkkCe\nss7kGn3ScwKBgFdDNYJLSmKQxGKKfO3uTnq2hsVXjk8vzH5gFJ4KmeSNKeAkCh73\nvJnwhxTRguariwhd2oY6vyyjBTjlnzPohso3YsF74hDj22RXSjBTn6el2ktKCGRg\nq8mbxACl7QM27ITTjexfZ+JMPuGEp9piffP6ws5YgrjeEkUNq8aYJeYxAoGAVKnP\nXCDvZHwQYyrMJkX5PYghRgNhEZSDskhGmK0upvKaLRkrlQrTmRRcWuNFIKYfTNPu\nkwmAG64U5AjgVI0vbqhBGaW0Hw0Ln5PpTdHhdxANZa7SadkVzYVBIMwaGOoSz/Ap\nt4YUcq9Hm3RtXbdhxO5/G36ceEmildKJB5aZuUsCgYBG9M+JfeebKfey+npgtioA\n5gZQ9hUklxMrqQYw6XnyCjp6TGvsf41nnsfT9egtPuwcOB4HGGgZLJXVVTCY5pTL\nppkewSo43ZCAsReQsHux8brD3t54G6sKOzUGBd37Me54Dq2Z9C/6PvMYQhY9Ftca\n4Z595E3Og/SmTOIo7atRmA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "splunk@uadamoh-proj.iam.gserviceaccount.com",
+  "client_id": "113471999389283312423",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/splunk%40uadamoh-proj.iam.gserviceaccount.com"
+}
